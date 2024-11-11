@@ -6,3 +6,4 @@ For the Google Earth Engine Code, refer to: https://code.earthengine.google.com/
 
 For questions regarding the repo, imagery, access problems, or unexpected errors, please send an email to finnelias.lehmann@student.unisg.ch
 
+The thesis PDF can be found in the repository. It was created using LaTeX in the Overleaf editor.
