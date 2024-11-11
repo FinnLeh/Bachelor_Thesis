@@ -1,3 +1,5 @@
+### Enhancing Poverty Measurements in Sub-Saharan Africa using Satellite Imagery
+
 This GitHub Repository is used to store the relevant codes, csv's and notebooks for the Thesis "Enhancing Poverty Measurements in Sub-Saharan Africa using Satellite Imagery". 
 
 For satellite imagery, please refer to: https://drive.google.com/drive/folders/1-vPbc7ntMAzJQOrZu-Gn-2sQpLeD_7Q9?usp=sharing. 
