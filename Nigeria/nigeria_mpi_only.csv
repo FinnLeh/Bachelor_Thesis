@@ -1,38 +1,38 @@
-﻿region,mpi,pop_in_mpi,deprivation_intensity,vulnerable_to_poverty,in_severe_poverty,pop_share,pop_size_in_thousands,num_mpi_poor,nutrition,child_mortality,years_of_schooling,school_attendance,cooking_fuel,sanitation,drinking_water,electricity,housing,assets
-Abia,0.028,,,,,,,,,,,,,,,,,
-Adamawa,0.273,,,,,,,,,,,,,,,,,
-Akwa Ibom,0.061,,,,,,,,,,,,,,,,,
-Anambra,0.029,,,,,,,,,,,,,,,,,
-Bauchi,0.375,,,,,,,,,,,,,,,,,
-Bayelsa,0.047,,,,,,,,,,,,,,,,,
-Benue,0.107,,,,,,,,,,,,,,,,,
-Borno,0.252,,,,,,,,,,,,,,,,,
-Cross River,0.064,,,,,,,,,,,,,,,,,
-Delta,0.038,,,,,,,,,,,,,,,,,
-Ebonyi,0.103,,,,,,,,,,,,,,,,,
-Edo,0.05,,,,,,,,,,,,,,,,,
-Ekiti,0.065,,,,,,,,,,,,,,,,,
-Enugu,0.054,,,,,,,,,,,,,,,,,
-Federal Capital Territory,0.086,,,,,,,,,,,,,,,,,
-Gombe,0.418,,,,,,,,,,,,,,,,,
-Imo,0.05,,,,,,,,,,,,,,,,,
-Jigawa,0.384,,,,,,,,,,,,,,,,,
-Kaduna,0.257,,,,,,,,,,,,,,,,,
-Kano,0.282,,,,,,,,,,,,,,,,,
-Katsina,0.31,,,,,,,,,,,,,,,,,
-Kebbi,0.509,,,,,,,,,,,,,,,,,
-Kogi,0.123,,,,,,,,,,,,,,,,,
-Kwara,0.182,,,,,,,,,,,,,,,,,
-Lagos,0.017,,,,,,,,,,,,,,,,,
-Nasarawa,0.113,,,,,,,,,,,,,,,,,
-Niger,0.314,,,,,,,,,,,,,,,,,
-Ogun,0.029,,,,,,,,,,,,,,,,,
-Ondo,0.05,,,,,,,,,,,,,,,,,
-Osun,0.054,,,,,,,,,,,,,,,,,
-Oyo,0.053,,,,,,,,,,,,,,,,,
-Plateau,0.157,,,,,,,,,,,,,,,,,
-Rivers,0.035,,,,,,,,,,,,,,,,,
-Sokoto,0.478,,,,,,,,,,,,,,,,,
-Taraba,0.264,,,,,,,,,,,,,,,,,
-Yobe,0.454,,,,,,,,,,,,,,,,,
-Zamfara,0.407,,,,,,,,,,,,,,,,,
+region,mpi
+Abia,0.028
+Adamawa,0.273
+Akwa Ibom,0.061
+Anambra,0.029
+Bauchi,0.375
+Bayelsa,0.047
+Benue,0.107
+Borno,0.252
+Cross River,0.064
+Delta,0.038
+Ebonyi,0.103
+Edo,0.05
+Ekiti,0.065
+Enugu,0.054
+Federal Capital Territory,0.086
+Gombe,0.418
+Imo,0.05
+Jigawa,0.384
+Kaduna,0.257
+Kano,0.282
+Katsina,0.31
+Kebbi,0.509
+Kogi,0.123
+Kwara,0.182
+Lagos,0.017
+Nasarawa,0.113
+Niger,0.314
+Ogun,0.029
+Ondo,0.05
+Osun,0.054
+Oyo,0.053
+Plateau,0.157
+Rivers,0.035
+Sokoto,0.478
+Taraba,0.264
+Yobe,0.454
+Zamfara,0.407
